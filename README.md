@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=I'm+Nicolás;;Welcome!)](https://git.io/typing-svg)
-
-<h1 align="center">I'm Yohan Nicolás Olmos Pérez</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=AE82CE&center=true&width=435&lines=I'm+Nicol%C3%A1s+Olmos)](https://git.io/typing-svg)
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
 - 🔭 I’m currently working on [F1-Scraper](https://github.com/Redooz/F1-Scraper)

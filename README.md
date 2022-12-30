@@ -5,9 +5,9 @@
 
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Formula 1 Frontend](https://github.com/Redooz/Formula-1-Frontend) and [F1 2022 Races API](https://github.com/Redooz/F1-2022-Races-API)
+- 🔭 I’m currently working on [YardSale](https://github.com/Redooz/YardSale)
 
-- 🌱 I’m currently learning **Typescript, Express, HTML, MySQL, Python and Bootstrap**
+- 🌱 I’m currently learning **Typescript, Express, HTML, CSS, MySQL, Golang and Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Redooz](https://github.com/Redooz)
 

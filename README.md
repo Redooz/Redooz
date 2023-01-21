@@ -4,6 +4,7 @@
 
 
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
+
 - 🔭 I’m currently working on [Notes-API](https://github.com/Redooz/notes-api)
 
 - 🌱 I’m currently learning **Typescript, Express, HTML, CSS, MySQL, Golang and Bootstrap**

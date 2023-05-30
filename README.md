@@ -5,9 +5,7 @@
 
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Notes-API](https://github.com/Redooz/notes-api)
-
-- 🌱 I’m currently learning **Angular, Express, Tailwind CSS, MySQL, Golang and Bootstrap**
+- 🌱 I’m currently learning **Angular, NestJS, Tailwind CSS, MySQL, Golang and Bootstrap**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Redooz](https://github.com/Redooz)
 

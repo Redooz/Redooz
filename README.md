@@ -5,13 +5,13 @@
 
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular, NestJS, Tailwind CSS, MySQL, Golang and Bootstrap**
+- 🌱 I’m currently working with **Angular, NestJS, Java Spring, MySQL and Golang **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Redooz](https://github.com/Redooz)
 
 - 📫 How to reach me **yohannicolas2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1CysMNNE2SFoXR9y3-Vr29CTimahGhots](https://drive.google.com/drive/u/0/folders/1CysMNNE2SFoXR9y3-Vr29CTimahGhots)
+- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/yohan-olmos/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🌱 I’m currently working with **Angular, NestJS, Java Spring, MySQL and Golang **
+- 🌱 I’m currently working with ** Angular, NestJS, Java Spring, MySQL, Firestore and Golang **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Redooz](https://github.com/Redooz)
 
